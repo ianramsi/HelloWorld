@@ -3,7 +3,7 @@ package com.denharyo;
 public class Moan {
 
 
-
+//add new comment to github
     public static void main (String [] args){
 
         Karyawan karyawan1 = new Karyawan();
