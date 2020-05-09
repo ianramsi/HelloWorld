@@ -14,7 +14,7 @@ public class Moan {
         karyawan1.soundOfKaryawan();
 
         System.out.println("Full Name: " + karyawan2.getFirstName() +" " + karyawan2.getLastName());
-        karyawan1.soundOfKaryawan();
+        karyawan2.soundOfKaryawan2();
 
     }
 }
