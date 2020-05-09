@@ -13,7 +13,7 @@ public class Moan {
         System.out.println("Full Name: " + karyawan1.getFirstName() +" " + karyawan1.getLastName());
         karyawan1.soundOfKaryawan();
 
-        System.out.println("Full Name: " + karyawan2.getFirstName() +" " + karyawan2.getLastName());
+        System.out.println("Full Name: " + karyawan2.getFirstName() +" " + karyawan2.getLastName()+" "+karyawan2.getKTP());
         karyawan2.soundOfKaryawan2();
 
     }
