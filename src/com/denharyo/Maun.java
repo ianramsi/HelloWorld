@@ -3,6 +3,7 @@ package com.denharyo;
 public class Maun {
     // how to create instance of static
     // and non-static nested class
+    // tambah comment juga di github
 
     public static void main (String [] args){
 
