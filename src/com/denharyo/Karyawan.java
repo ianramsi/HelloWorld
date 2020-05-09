@@ -10,14 +10,12 @@ public class Karyawan extends Employs {
 
     public static String getNamaDepan(){
         System.out.println("Please Enter First Name: ");
-        String nama1 = keyboard.next();
-        return nama1;
+        return keyboard.next();
     }
 
     public static String getNamaBelakang(){
         System.out.println("Please Enter Last Name: ");
-        String nama2 = keyboard.next();
-        return  nama2;
+        return keyboard.next();
     }
 
         Karyawan(){
@@ -27,7 +25,13 @@ public class Karyawan extends Employs {
     }
 
     public void soundOfKaryawan (){
+
         System.out.println("Tolong naikkan gaji kami !!!!");
+    }
+
+    public void soundOfKaryawan2(){
+
+        System.out.println("Yang penting masih kerja dan gajian cuy...bersyukur aja!");
     }
 
 }
